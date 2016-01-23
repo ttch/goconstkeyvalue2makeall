@@ -1,0 +1,1 @@
+# goconstkeyvalue2makeall
